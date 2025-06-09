@@ -13,13 +13,10 @@
 - numpy
 
 ## Datasets
-We conduct experiments on six datasets:
 - MNIST
 - CIFAR-10
 - CIFAR-100
 - FashionMNIST 
-- OfficeCaltech10
-- DomainNet
 
 ## Training
 ```
